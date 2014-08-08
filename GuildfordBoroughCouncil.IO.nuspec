@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>GuildfordBoroughCouncil.IO</id>
+    <version>1.0.0</version>
+    <authors>Ben Cheetham</authors>
+    <owners>Guildford Borough Council</owners>
+    <licenseUrl>https://github.com/GuildfordBC/io/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/GuildfordBC/io</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Code for alternative NTFS data streams and marking files as from the internet.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+  </metadata>
+</package>
